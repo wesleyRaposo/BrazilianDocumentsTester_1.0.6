@@ -20,7 +20,7 @@ Esta aplicação de uso do pacote já contem uma opção
 Nesse pacote de classes, você encontrará validações para os seguintes documentos oficiais brasileiros:
 > CPF  
 > Título de Eleitor  
-> Certidão de registro civil (nascimento, casamento, casamento religioso, óbito)
+> Certidão de registro civil (nascimento, casamento, casamento religioso, óbito)  
 > CNPJ  
 > PIS/PASEP  
 > Inscrição Estadual  
